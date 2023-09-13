@@ -26,7 +26,7 @@ section{
 }
 
 #section-2{
-  flex-grow: calc(2/5);
+  flex-grow: calc(2/5 );
 }
 
 #section-3{
@@ -40,3 +40,5 @@ section{
 #section-5{
   order: -1
 }
+
+//section
